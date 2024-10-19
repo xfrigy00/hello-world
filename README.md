@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 Testing writng into readme
 
-tsting again
+testing again
